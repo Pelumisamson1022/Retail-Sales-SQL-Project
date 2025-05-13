@@ -2,6 +2,8 @@
 
 ##  Project Overview
 
+---
+
 This project involves analyzing retail sales data to uncover insights into sales trends, customer behavior, and product performance. The analysis aims to inform strategic decisions to enhance sales and customer satisfaction.
 
 ##  Data Sources
