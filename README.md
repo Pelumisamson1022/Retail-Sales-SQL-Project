@@ -52,9 +52,9 @@ Utilized SQL queries to explore relationships between variables, such as:
 - **Data Quality**: Potential inaccuracies due to missing or incorrect entries.
 - **Temporal Constraints**: Data covers a specific period and may not reflect current trends.
 
-##  Tools and Technologies
+##  Tools
 
 - **SQL**: Data extraction and analysis.
-- **Tableau**: Data reporting.
+- **Tableau**: Data reporting and Dashboard.
 
 
